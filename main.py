@@ -7,6 +7,8 @@ import sys
 current_directory = os.getcwd()
 print("El directorio actual es:", current_directory)
 
+#uno de las primeras pruebas de manejo de paths y abrir archivos csv
+
 path_file = 'files/usu_hogar_T324.txt'
 index_pondera = 9
 index_tenencia = 37
